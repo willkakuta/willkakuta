@@ -1,10 +1,6 @@
-Olá! Me chamo Willian Kakuta
+Hi! My name is Willian Kakuta
 
-Minha profissão é Cientista de Dados
-
-Trabalho com Ciência de Dados
-
-Estou aprendendo Ciência de Dados
+I study and work with Data Science
 
 LinkedIn: https://www.linkedin.com/in/willkakuta/
 
